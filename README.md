@@ -35,10 +35,6 @@ Este projeto foi criado para praticar:
 - Entrada de dados com Scanner
 - Organização de código em classes
 
-📄 Licença
-
-Este projeto está sob a licença MIT.
-
 ---
 
 Desenvolvido com 💻 por Vagner Rocha
